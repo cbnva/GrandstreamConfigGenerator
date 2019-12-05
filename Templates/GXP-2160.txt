@@ -1,0 +1,3 @@
+# Admin password for web interface
+# String: a-z, A-Z, 0-9
+P2 = TestPassword
